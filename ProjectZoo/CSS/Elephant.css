@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-size: 60px ;
+    color: yellow;
+    padding: 20px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('Images/ElephantHabitat.webp');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    image-rendering:auto;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 196, 0);
+    width: 50%;
+    float: right;
+    padding: 120px;
+
+}
+.ElephantDisplay{
+    position: absolute;
+    top: 275px;
+    left: 100px;
+    width: 500px;
+    height: 500px;
+}
